@@ -1,6 +1,6 @@
-# Ditto data generation
+# [Ditto](https://ut-austin-rpl.github.io/Ditto/) data generation
 
-This repo stores the codes for data generation of Ditto. Given URDF file of an articulated object, we spwan it in Pybullet simulation, and interact with it by directly manipulating the joint state. We collect multiview depth observations of the object before and after interaction, as well as the ground truth occupancy data and segmentation.
+This repo stores the codes for data generation of *Ditto: Building Digital Twins of Articulated Objects from Interaction*. Given URDF file of an articulated object, we spwan it in Pybullet simulation, and interact with it by directly manipulating the joint state. We collect multiview depth observations of the object before and after interaction, as well as the ground truth occupancy data and segmentation.
 
 ## Installation
 
