@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>s2u</name>
+    <version>0.1.0</version>
+    <description>Ditto data generation</description>
+
+    <maintainer email="stevetod98@gmail.com">Zhenyu Jiang</maintainer>
+
+    <license>BSD</license>
+    <url>https://github.com/UT-Austin-RPL/Ditto_data_gen</url>
+
+    <buildtool_depend>catkin</buildtool_depend>
+
+</package>

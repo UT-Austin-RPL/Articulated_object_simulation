@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/data
+/notebooks
+.DS_Store
+.vscode
+outputs
+*.swp

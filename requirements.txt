@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+open3d
+pybullet==2.7.9
+tqdm
+catkin_pkg
+trimesh
+urdfpy
+cython
+treelib
